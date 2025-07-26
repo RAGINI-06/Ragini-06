@@ -12,7 +12,7 @@
 
 ### 🧠 About Me
 
-- 🎓 I'm a 2nd-year BTech student at Lucknow University  
+- 🎓 I'm a 2nd-year BTech student
 - 💻 I code in **Java, HTML, CSS, JavaScript**
 - 🚀 Currently building **Yumi**, an AI-powered personal chatbot
 - 🌱 Learning **Spring Boot** and **Backend APIs**
@@ -25,7 +25,6 @@
 
 - 👩‍💻 Languages: `Java`, `Dart`, `C`
 - 🌐 Frontend: `HTML`, `CSS`, 
-- 📱 Mobile: `Flutter`
 - ☕ Backend: `Spring Boot`
 -- 🧠 Tools: `VS Code`, `Git`, `GitHub`, `Figma`
   
