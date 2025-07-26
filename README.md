@@ -46,7 +46,7 @@
 ---
 
 ### 📈 GitHub Stats
-![Ragini-06's Stats](https://github-readme-stats.vercel.app/api?username=Ragini-06&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ragini-06&show_icons=true&theme=tokyonight" alt="ragini's github stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Ragini-06&theme=tokyonight" alt="streak stats" />
