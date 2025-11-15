@@ -13,10 +13,9 @@
 ### 🧠 About Me
 
 - 🎓 I'm a 2nd-year BTech student
-- 💻 I code in **Java, HTML, CSS, JavaScript**
-- 🚀 Currently building **Yumi**, an AI-powered personal chatbot
-- 🌱 Learning **Spring Boot** and **Backend APIs**
-- 🛠️ Practicing DSA: 100+ questions done
+- 💻 I code in **Java, HTML, CSS, JavaScript.React.**
+- 🌱 **Spring Boot** and **Backend APIs**
+- 🛠️ Practicing DSA: 120+ questions done
 - 🎯 Goal: Build meaningful tech,and contribute to real-world projects
 
 ---
@@ -35,7 +34,6 @@
 | Project               | Tech Stack          | Description                            |
 |----------------------|---------------------|----------------------------------------|
 | **Yumi Chatbot**     | Java + Spring Boot  | AI-powered chatbot with Gemini API     |
-| **Grade Tracker**    | Java Swing          | Tracks and calculates student marks    |
 |  **Netflix Clone**   | HTML, CSS, JS       | Responsive landing page with trailers   |
 |**birthday-project**  | HTML,CSS,JS         | Personal projects                       |  
 
