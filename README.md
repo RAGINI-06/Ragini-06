@@ -1,62 +1,58 @@
-## Hi there 👋
 
-### RAGINI_06
-<h1 align="center">Hi 👋, I'm Ragini Nishad</h1>
-<h3 align="center">A passionate Java Developer | Building  Projects | BTech CSE'28</h3>
+# Hi, I'm Ragini Nishad 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=435&lines=Aspiring+Backend+Developer;Open+Source+Enthusiast;Loves+to+build+tech+that+helps!" alt="Typing SVG" />
-</p>
+**Backend Developer** — Java, Spring Boot, REST APIs, MySQL & MongoDB
+B.Tech CSE, University of Lucknow (Expected 2028) · CGPA 8.58
+
+I build backend systems that go past the tutorial stage — secure REST APIs, layered architecture, and a database engine I wrote from scratch just to understand what's happening under the hood. Currently focused on Java, Spring Boot, and database internals, and always solving DSA problems on the side.
 
 ---
 
-### 🧠 About Me
+### 🔧 Tech Stack
 
-- 🎓 I'm a 2nd-year BTech student
-- 💻 I code in **Java, HTML, CSS, JavaScript.React.**
-- 🌱 **Spring Boot** and **Backend APIs**
-- 🛠️ Practicing DSA: 120+ questions done
-- 🎯 Goal: Build meaningful tech,and contribute to real-world projects
+**Languages:** Java (17/21), JavaScript, HTML5, CSS3
+**Frameworks & J2EE:** Spring Boot, Spring MVC, Hibernate ORM, Servlets, JSP, JDBC
+**Databases:** MySQL, MongoDB
+**Architecture:** REST APIs, Microservices, MVC, JWT Authentication, WebClient
+**Tools:** Git, GitHub, Maven, Firebase, Swagger/OpenAPI, FastAPI
+**Core CS:** OOP, DBMS, Operating Systems, Data Structures & Algorithms, System Design
 
 ---
 
-### 💼 Tech Stack
+### 🚀 Projects
 
-- 👩‍💻 Languages: `Java`, `Dart`, `C`
-- 🌐 Frontend: `HTML`, `CSS`, 
-- ☕ Backend: `Spring Boot`
--- 🧠 Tools: `VS Code`, `Git`, `GitHub`, `Figma`
-  
----
+**[E-Route — Intelligent Eco-Friendly Route Planner](https://github.com/RAGINI-06)**
+`Java` `Spring Boot` `JWT` `MySQL` `Spring WebClient`
+A secure REST API that calculates travel routes using real-time environmental data — combining OpenRouteService, OpenWeather, TomTom Traffic, and NASA FIRMS via asynchronous WebClient calls. Stateless JWT auth, global exception handling, full Swagger/OpenAPI docs.
 
-### 🛠️ Projects
+**[KawaiiDB — Lightweight Custom Database Engine](https://github.com/RAGINI-06)**
+`Java 17` `Maven` `File I/O`
+A SQL-like database engine built from scratch — custom token parser, schema management, query execution, and file-based persistent storage (`.tbl` files) with automatic crash-recovery on startup. Built to actually understand DBMS internals, not just use them.
 
-| Project               | Tech Stack          | Description                            |
-|----------------------|---------------------|----------------------------------------|
-| **Yumi Chatbot**     | Java + Spring Boot  | AI-powered chatbot with Gemini API     |
-|  **Netflix Clone**   | HTML, CSS, JS       | Responsive landing page with trailers   |
-|**birthday-project**  | HTML,CSS,JS         | Personal projects                       |  
-
-
-➡️ Check them out in my pinned repos below 👇
+**[Smart Assistant — AI Chrome Extension Backend](https://github.com/RAGINI-06)**
+`Spring Boot` `JavaScript` `Gemini API`
+A Spring Boot micro-backend powering a Chrome extension that summarizes web pages using the Gemini API, with API keys kept entirely server-side and out of client reach.
 
 ---
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ragini-06&show_icons=true&theme=tokyonight" alt="ragini's github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ragini-06&theme=tokyonight" alt="streak stats" />
-</p>
+![Ragini's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAGINI-06&show_icons=true&theme=tokyonight)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com?user=RAGINI-06&theme=tokyonight)
 
 ---
 
-### 🔗 Let's Connect
+### 🧩 Currently
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ragini-n)
-- 📫 Email: ragininishad333@gmail.com
-- 🌐 Portfolio: (Coming soon)
+- 🎓 B.Tech CSE @ University of Lucknow
+- ☕ Deepening Spring Boot, system design, and DBMS internals
+- 🧠 Solved 100+ DSA problems on LeetCode and competitive platforms
+- 🎯 Open to Backend / Full Stack / MERN developer roles (internship & full-time)
 
 ---
 
-> “Coding is my love language ❤️”
+### 🔗 Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ragini-nishad-3b2089321/)
+- 🧮 [LeetCode](https://leetcode.com/nragini733)
+- 📫 nragini733@gmail.com
