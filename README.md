@@ -1,7 +1,7 @@
 
 # Hi, I'm Ragini Nishad 👋
 
-**Backend Developer** — Java, Spring Boot, REST APIs, MySQL & MongoDB
+**Backend Developer** — Java, Spring Boot,Node.js ,Javascript REST APIs, MySQL & MongoDB
 B.Tech CSE, University of Lucknow (Expected 2028) · CGPA 8.58
 
 I build backend systems that go past the tutorial stage — secure REST APIs, layered architecture, and a database engine I wrote from scratch just to understand what's happening under the hood. Currently focused on Java, Spring Boot, and database internals, and always solving DSA problems on the side.
@@ -11,7 +11,7 @@ I build backend systems that go past the tutorial stage — secure REST APIs, la
 ### 🔧 Tech Stack
 
 **Languages:** Java (17/21), JavaScript, HTML5, CSS3
-**Frameworks & J2EE:** Spring Boot, Spring MVC, Hibernate ORM, Servlets, JSP, JDBC
+**Frameworks & J2EE:** Spring Boot,Node.js,React.js,Express.js Spring MVC, Hibernate ORM, Servlets, JSP, JDBC
 **Databases:** MySQL, MongoDB
 **Architecture:** REST APIs, Microservices, MVC, JWT Authentication, WebClient
 **Tools:** Git, GitHub, Maven, Firebase, Swagger/OpenAPI, FastAPI
